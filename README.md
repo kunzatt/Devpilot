@@ -1,4 +1,4 @@
-# 🚀 A301 Devpilot 프로젝트
+# 🚀 Devpilot 프로젝트
 
 ## 📋 1. Gitlab 소스 클론 이후 빌드 및 배포 문서
 
